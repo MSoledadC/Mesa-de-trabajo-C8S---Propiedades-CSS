@@ -5,7 +5,6 @@
 
 body {
     font-family: Roboto;
-    font-style: italic;
     margin: 0px;
 }
 
@@ -33,6 +32,7 @@ h2 {
     background-color: #C4C4C4;
     color: #005677;
     padding-left: 10px;
+    font-style: italic;
 }
 
 main ul {
@@ -55,6 +55,7 @@ section {
 .menu-nav {
     text-decoration: none;
     color: white;
+    font-weight: 800;
 }
 
 .foto-personal {
