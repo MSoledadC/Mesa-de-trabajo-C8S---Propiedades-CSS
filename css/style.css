@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto;
+    font-style: italic;
+    margin: 0px;
+}
+
+header.banner {
+    text-align: center;
+    background-image: url('../img/polygonal19.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    color: #005677;
+    background-color: #C4C4C4;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #C4C4C4;
+    color: #005677;
+    padding-left: 10px;
+}
+
+main ul {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+main li {
+    margin-bottom: 8px;
+}
+
+main section ul {
+    padding-left: 25px;
+}
+
+section {
+    margin-bottom: 25px;
+}
+
+.menu-nav {
+    text-decoration: none;
+    color: white;
+}
+
+.foto-personal {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.sinPuntos li {
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+.texto-Sobremi {
+    padding: 10px;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    background-color: #005677;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+footer span {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 85%;
+}
+
+footer a {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 85%;
+    color: white;
+}
+
+
+/*   */
